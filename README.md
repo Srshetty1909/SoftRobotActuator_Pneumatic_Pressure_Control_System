@@ -45,4 +45,12 @@ Pneumatic Circuit:
 GUI Screenshot: 
   <img width="874" height="789" alt="image" src="https://github.com/user-attachments/assets/50cdb527-8281-4d82-bb5a-0ba978378ac9" />
 
+Results:
+  This prototype for a Pneumatic Pressure control System for inflatable Actuators was able to achieve the following results:
+    1. The prototype was able to accurately inflate each actuator to the target internal pressure set by the user through the GUI and maintained it within the margin of error (20 Pascals) until either the target pressure was changed or the prototype was deflated.
+    2. The prototype was able to adjust the inflation of the all actuators in response to any load being applied on it to maintain the internal pressure of each cushion at its target pressure within the margin of error (10 Pascals).
+    3. Continuously monitor and display the internal pressure of each inflatable actuator in real time on the GUI
+  
+  <img width="4366" height="215" alt="image" src="https://github.com/user-attachments/assets/ee9c4a9d-72e1-4e6c-99e1-4e9d4d20cb6a" />
+
   
