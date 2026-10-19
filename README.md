@@ -20,4 +20,7 @@ Control Algorithm flowchart:
 Pneumatic Circuit: 
   <img width="2827" height="1599" alt="ThirdPrototypeCircuit" src="https://github.com/user-attachments/assets/fa520eb1-e0ee-4ae0-8f65-38376c686d32" />
 
+GUI Screenshot: 
+  <img width="874" height="789" alt="image" src="https://github.com/user-attachments/assets/50cdb527-8281-4d82-bb5a-0ba978378ac9" />
 
+  
